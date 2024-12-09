@@ -27,7 +27,8 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 pip install -r requirements.txt
 
-##How to Run the App
+##How to Run the App:
+
 1.Start the Flask development server:
 
 python run.py
@@ -36,8 +37,10 @@ python run.py
 
 http://127.0.0.1:5000
 
-##Contributing
+##Contributing:
+
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
-##License
+##License:
+
 This project is licensed under the MIT License. See the LICENSE file for details.
